@@ -4,6 +4,8 @@
 
 Template for Notebooks for Supporting Information and Zenodo Deposition.
 
+Hejsa
+
 ## Layout
 
 Description of the directory layout.
